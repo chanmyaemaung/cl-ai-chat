@@ -6,7 +6,7 @@ From answering basic science and life questions to composing emails, writing ess
 
 Feel free to email at info@chanmyaemaung.net Thank you so much!
 • By: Chen Lay
-• Email: info@gmail.com
+• Email: info@chanmyaemaung.net
 • WhatsApp: +959795883549
 
 ## How To Install On loaclhost
@@ -17,7 +17,11 @@ After downloading the project, you must install [Node JS](https://nodejs.org/en/
 2.  npm install
 3.  npm run dev
 
-Open another **CMD** 4. cd server 5. npm install 6. npm run server
+Open another **CMD**
+
+4. cd server
+5. npm install
+6. npm run server
 
 ## Change OpenAI API Key
 
