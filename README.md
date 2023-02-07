@@ -5,9 +5,10 @@ Looking for an intelligent and engaging chat companion? Look no further than CL 
 From answering basic science and life questions to composing emails, writing essays, and even coding and gaming, CL Web Chat is a versatile and entertaining chat partner. And with the **CL Web Chat for Android app**, you can enjoy enhanced features and a more efficient and enjoyable chat experience.
 
 Feel free to email at info@chanmyaemaung.net Thank you so much!
-• By: Chen Lay
-• Email: info@chanmyaemaung.net
-• WhatsApp: +959795883549
+
+-   By: Chen Lay
+-   Email: info@chanmyaemaung.net
+-   WhatsApp: +959795883549
 
 ## How To Install On loaclhost
 
